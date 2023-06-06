@@ -1,0 +1,16 @@
+.part1 {
+    width: 438px;
+    height: 577px;
+    background-color: #F5F5F5;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.button1 {
+    width: 330px;
+    height: 65px;
+    background-color: #E3A647;
+    border-radius: 100px;
+    color: white;
+
+}
